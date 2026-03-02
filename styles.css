@@ -1,5 +1,7 @@
-body{
-    background:#f0ebe3;
-    display: flex;
-    
+body {
+  background: #f0ebe3;
+  font-family: Arial, sans-serif;
+  color: #3a3a3a;
+  margin: 0;
+  padding: 0;
 }
